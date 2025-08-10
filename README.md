@@ -1,3 +1,4 @@
+Suppose to be an expense tracker app. Will continue on this when able to work with a mobile device 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
